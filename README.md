@@ -1,4 +1,4 @@
-# Acacdemia (built in React)
+# Academia (built in React)
 
 ## Overview
 
