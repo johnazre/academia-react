@@ -24,3 +24,12 @@ This is a tool that will manage school stuff for many campuses
 - Students can view their course transcripts
 - Students can buy books for classes in the bookstore
 - Students can pay tuition
+
+## Entities
+
+- Students
+- Teachers
+- Admins
+- Courses
+- Grades
+- Assignments
